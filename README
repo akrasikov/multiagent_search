@@ -1,0 +1,7 @@
+This is a research project named Multiagent Search. The main purpose of this 
+system is to create a working prototype of a search system based on the 
+multiagent paradigm.
+
+The following technology stack is used:
+- Java SE 6
+- JADE multiagent library
